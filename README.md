@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Mostafa Hosny
 I'm Front-End ReactJS dev with expertise in building engaging user interfaces. Skilled in HTML, CSS, and JavaScript, I collaborate effectively to translate requirements into functional solutions. Detail-oriented, constantly learning, and dedicated to creating exceptional web experiences.
 
-![Front-End Developer | ReactJS](https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)
+![Front-End Developer | ReactJS](https://github.com/MostafaHosny97/MostafaHosny97/blob/main/3333333.gif)
 
 - 🔭 I’m currently working on Freelancing 
 - 🌱 I’m currently learning Coding 
@@ -10,7 +10,8 @@ I'm Front-End ReactJS dev with expertise in building engaging user interfaces. S
 
 ### Languages and Tools:
 
-##### HTML5 / CSS3 / JS / Bootstrap / Tailwind / SASS / JQuery / ReactJS / ThreeJS
+##### * 💻 HTML5 / CSS3 / JS / Bootstrap / Tailwind / SASS / JQuery / ThreeJS
+##### * ⚛ React
 
 ### Connect with Me:
 
